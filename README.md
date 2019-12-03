@@ -17,6 +17,9 @@ https://help.github.com/en/github/working-with-github-pages/configuring-a-publis
 
 https://dnandref.github.io/pwa-hello/
 
+# Audit
+Using Lighthouse in Chrome (F12 > Audit).
+
 # Ref
 
 https://en.wikipedia.org/wiki/Progressive_web_application
