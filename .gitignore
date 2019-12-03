@@ -1,0 +1,25 @@
+# Eclipse
+**/.project
+**/.classpath
+**/.settings
+**/target
+
+# IntelliJ
+*.iml
+**/*.iml
+**/.idea
+
+# Log files
+**/*.log
+**/*.log.*
+
+# Copied code
+**/*.kube
+
+# Generated code
+**/generated
+**/*generated*
+**/target
+
+# Don't ignore .gitignore
+!**/.gitignore
