@@ -2,7 +2,7 @@
 Progressive Webapp - Hello.
 
 # Source
-Copy taken from:
+Code was modified after copying from:
 
 https://github.com/jamesjohnson280/hello-pwa
 
